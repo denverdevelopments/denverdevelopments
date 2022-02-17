@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **Ruby, Ruby on Rails, API's**
 
-- 📫 How to reach me: **kevn.nguyen@gmail.com**
-- Get in touch with me! 📣
-I'm always looking to talk about code (or anything else, really ) and meet new people!
+- 📣 Get in touch with me!  📫
 
 [![LinkedIn Shield](https://img.shields.io/static/v1?label=&message=Kevin+Nguyen&color=grey&style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/kevin-nguyen-59510520a/)
 [![GMail Shield](https://img.shields.io/static/v1?color=grey&style=flat-square&logo=gmail&label=&message=kevn.nguyen@gmail.com)](mailto:kevn.nguyen@gmail.com?subject=Hello%20Kevin!)
