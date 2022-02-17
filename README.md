@@ -13,8 +13,8 @@
 - Get in touch with me! 📣
 I'm always looking to talk about code (or anything else, really ) and meet new people!
 
-[![LinkedIn Shield](https://img.shields.io/static/v1?label=&message=Kevin+Nguyen&color=grey&style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/curtis-bartell/)
-[![GMail Shield](https://img.shields.io/static/v1?color=grey&style=flat-square&logo=gmail&label=&message=kevn.nguyen@gmail.com)](mailto:curtis.c.bartell@gmail.com?subject=Let's%20chat!)
+[![LinkedIn Shield](https://img.shields.io/static/v1?label=&message=Kevin+Nguyen&color=grey&style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/kevin-nguyen-59510520a/)
+[![GMail Shield](https://img.shields.io/static/v1?color=grey&style=flat-square&logo=gmail&label=&message=kevn.nguyen@gmail.com)](mailto:kevn.nguyen@gmail.com?subject=Hello%20Kevin!)
 
 - 🔭 I’m currently working on [viewing_party](https://github.com/denverdevelopments/viewing_party)
 
