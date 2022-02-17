@@ -3,11 +3,9 @@
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=denverdevelopments&count_private=true&show_icons=true&theme=synthwave)](https://github.com/denverdevelopments)
 
-
+- 💬 Ask me about **Ruby, Ruby on Rails, API's**
 
 - 🌱 I’m currently learning **Bootstrap** 
-
-- 💬 Ask me about **Ruby, Ruby on Rails, API's**
 
 - 📣 Get in touch with me!  📫
 
