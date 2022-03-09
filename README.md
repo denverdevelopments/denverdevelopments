@@ -12,7 +12,7 @@
   [![LinkedIn Shield](https://img.shields.io/static/v1?label=&message=Kevin+Nguyen&color=grey&style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/kevin-nguyen-59510520a/)
   [![GMail Shield](https://img.shields.io/static/v1?color=grey&style=flat-square&logo=gmail&label=&message=kevn.nguyen@gmail.com)](mailto:kevn.nguyen@gmail.com?subject=Hello%20Kevin!)
 
-- 🔭 I’m currently working on [viewing_party](https://github.com/denverdevelopments/viewing_party)
+- 🔭 I’m currently working on updating [viewing_party](https://github.com/denverdevelopments/viewing_party) project, adding Bootstrap
 
 - ⚡ Fun fact::  **I love tabletop games, to the point that I figured out infinite scoring for Ascension**  ✨
 
